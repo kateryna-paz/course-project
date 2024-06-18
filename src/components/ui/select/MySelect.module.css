@@ -1,0 +1,15 @@
+.mySelect {
+  padding: 8px 22px;
+  color: black;
+  font-size: 14px;
+  background-color: transparent;
+  border: 2px solid black;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.myOption {
+  line-height: 20px;
+  color: black;
+  cursor: pointer;
+}
